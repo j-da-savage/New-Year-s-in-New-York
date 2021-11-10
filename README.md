@@ -23,4 +23,6 @@ The first step of the editing process is finding and downloading the sound from 
 
 4) Web Development  
 We brainstormed a wireframe that reflects the storyline of our recording. Since it is about two vloggers taking a trip from Abu Dhabi to Paris and then to New York, we decided to showcase these three cities on the website and embed corresponding sounds to each city. To include an interactive element, we enabled the user to click each city and listen to the audio. Since our audio was going to be separated into three different parts, we decided that having a scroll option on our website was going to aid in the story flow.  
+
+
 Reflection/Evaluation: As we planned for the project, we modified our ideas a few times in order to include various sounds and to push ourselves creatively. After such trials, we managed to come up with a satisfactory storyline, and we went on to collecting/recording necessary audio. Our expectations were met in the sense that we created a short yet dynamic story with interesting supporting sounds. We are also proud of the website that reflects the audio
